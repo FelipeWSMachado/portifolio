@@ -34,18 +34,18 @@ const projectsData = [
   {
     title: "Pomodoro Clock",
     imageSrc: "./assets/images/projects/pomodoro.png",
-    imageAlt: "GIF do projeto twitter dark mode.",
-    githubLink: "https://github.com/FelipeWSMachado/CloneTwitterDark",
-    projectLink: "https://felipewsmachado.github.io/CloneTwitterDark/",
-    description: "Clone (partial) do twitter modo dark.",
+    imageAlt: "Imagem do projeto pomodoro clock.",
+    githubLink: "https://github.com/FelipeWSMachado/pomodoro-clock",
+    projectLink: "https://happy-bohr-4d01a4.netlify.app/",
+    description: "Um relogio pomodoro.",
   },
   {
     title: "Proffy Dark Mode",
     imageSrc: "./assets/images/projects/proffy.png",
-    imageAlt: "GIF do projeto twitter dark mode.",
-    githubLink: "https://github.com/FelipeWSMachado/CloneTwitterDark",
-    projectLink: "https://felipewsmachado.github.io/CloneTwitterDark/",
-    description: "Clone (partial) do twitter modo dark.",
+    imageAlt: "Imagem do projeto Proffy em dark mode.",
+    githubLink: "https://github.com/FelipeWSMachado/ProffyDarkMode",
+    projectLink: "#",
+    description: "Um app para cadastro de alunos e aulas.",
   },
 ];
 
